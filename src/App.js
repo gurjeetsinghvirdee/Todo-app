@@ -49,7 +49,7 @@ function App() {
           width: "100%",
         }}
       >
-        <h1>Gurjeet Singh TodoApp 🌻</h1>
+        <h1>Gurjeet Singh Todo's App 🌻</h1>
         <form>
           <TextField
             id="standard-basic"
